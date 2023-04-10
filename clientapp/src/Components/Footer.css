@@ -1,0 +1,16 @@
+
+
+.footer{
+    color: #c9c9c9;
+    height: 200px;
+    border: #3a7283;
+    box-sizing: border-box;
+    background-image: linear-gradient(#0b0d0f, #4e5355);
+    text-align: center;
+ flex: auto;
+}
+.tag{
+    color: #fdfcfc;
+    text-decoration: none;
+    list-style: none;  
+}
